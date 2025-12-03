@@ -36,7 +36,7 @@ If data packets were packages being shipped across the country, the Transport La
 Is data being **checked for errors** or **tracked** for delivery?  
 ✅ That's the Transport Layer.
 
-The Transport Layer uses **port numbers** to identify which application should receive data:
+### 1. The Transport Layer uses **port numbers** to identify which application should receive data:
 - **Web server**: Port 80 (HTTP) or 443 (HTTPS)
 - **Email**: Port 25 (SMTP), 110 (POP3), 143 (IMAP)
 - **DNS**: Port 53
@@ -53,6 +53,7 @@ Prevents fast senders from overwhelming slow receivers (like a water faucet cont
 
 ### 4. Error Checking
 Uses checksums to detect if data was corrupted during transmission.
+
 ---
 
 **Next:** Now we need addresses for delivery.
