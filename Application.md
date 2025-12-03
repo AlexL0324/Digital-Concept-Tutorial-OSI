@@ -2,6 +2,8 @@
 
 ## What It Is:
 **The apps you actually use** - web browsers, email, messaging apps.
+The Application Layer is the **only layer that directly interacts with users**. When you check email, browse a website, or use a messaging app, you're working at Layer 7.
+Think of this layer as the **"face" of the network** - it's what you see and interact with.
 
 ---
 
@@ -27,6 +29,6 @@ Are you **clicking, typing, or viewing** something in an app?
 ---
 
 **Next:** Once you've placed your order, it needs to be packaged properly.
-➡️ [Layer 6: Presentation Layer](6-Presentation.md)
+➡️ [Layer 6: Presentation Layer](Presentation.md)
  
 [Back to Home](README.md)
