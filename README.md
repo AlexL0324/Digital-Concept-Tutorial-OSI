@@ -48,4 +48,4 @@ P - Physical (Layer 1)
 ---
 
 **Next:** Let's start at the top with Layer 7 - where you actually use apps!
-➡️ [Layer 7: Application Layer](7-Application.md)
+➡️ [Layer 7: Application Layer](Application.md)
