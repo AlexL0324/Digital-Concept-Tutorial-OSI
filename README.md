@@ -5,7 +5,7 @@
 **Last Updated:** December 2025
 
 ## Purpose & Content
-This tutorial provides a simple, conceptual introduction to the OSI (Open Systems Interconnection) Model, a fundamental framework for understanding how data travels across a network. We'll break down each of its seven layers in plain language, using analogies and analogies. You won't find complex configurations here—just a clear explanation of *what* the model is and *why* it matters.
+This tutorial provides a simple, conceptual introduction to the OSI (Open Systems Interconnection) Model, a fundamental framework for understanding how data travels across a network. We'll break down each of its seven layers in plain language, using analogies. You won't find complex configurations here—just a clear explanation of *what* the model is and *why* it matters.
 
 ## Target Audience
 This tutorial is designed for:
